@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FragmentsExample</string>
+
+    <string name="hello_first_fragment">Hello first fragment!</string>
+    <string name="hello_second_fragment">Hello second fragment!</string>
+    <string name="hello_third_fragment">Hello third fragment!</string>
+    <string name="hello_fourth_fragment">Hello fourth fragment!</string>
+
+    <string name="first_fragment_name">First fragment</string>
+    <string name="second_fragment_name">Second fragment</string>
+    <string name="third_fragment_name">Third fragment</string>
+    <string name="fourth_fragment_name">Fourth fragment</string>
+
+    <string name="action_add">Add</string>
+    <string name="action_replace">Replace</string>
+    <string name="action_show">Show</string>
+    <string name="action_hide">Hide</string>
+    <string name="action_remove">Remove</string>
+
+    <string name="checkbox_back_stack">Add to back stack</string>
+
+    <string name="command_start_name">Apply</string>
+    <string name="command_remove_name">Pop</string>
+    <string name="command_clear_name">Clear log</string>
+</resources>
